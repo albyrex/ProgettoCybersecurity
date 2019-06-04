@@ -1,0 +1,3 @@
+/C=IT/CN=SecSTORE Client 1
+/C=IT/CN=SecSTORE Client 2
+/C=IT/O=Internet Widgits Pty Ltd/CN=FedericoProva
